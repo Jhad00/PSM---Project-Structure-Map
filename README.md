@@ -59,4 +59,4 @@ It reads all files, ignores binaries, and organizes everything neatly for quick 
 
 ---
 
-☝ In the name of Allah, start exploring your projects with PSM
+🟢 start exploring your projects with PSM
