@@ -7,51 +7,98 @@
 
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=بسم+الله%2C+Explore+your+projects+with+PSM;Generate+a+full+project+structure+in+a+single+file" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=In+the+name+of+God%2C+Explore+your+projects+with+PSM;Generate+a+full+project+structure+in+a+single+file" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌿 About PSM
 
-📂 أداة لرسم هيكلة المشروع بالكامل في ملف واحد  
-
-• A tool to generate a full project structure in a single file  
-
-PSM helps you **analyze your project directories** and **generate a detailed report** in one single file.  
-It reads all files, ignores binaries, and organizes everything neatly for quick reference.
+**PSM** is a Python tool that scans your project directory and generates a **complete structure report** in a single `.txt` file.  
+It automatically skips binary files and organizes readable content for quick reference.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages Used:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)  
+**Language Used:**
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)  
 
-### Tools & Platforms:
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
+**Platforms Supported:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)  
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=terminal)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)  
 
 ---
 
 ## ⚡ Features
 
-- Automatically explores **project directories**  
-- Generates **full structure report** in one `.txt` file  
-- Skips **binary files** and organizes textual content  
+- Scans entire **project directories** automatically  
+- Generates a **full structure report** in `.txt` format  
+- Skips **binary files** to keep output clean  
 - Handles **large projects** efficiently  
-- Works for **Python, JavaScript, C++, Java, HTML**, and many other programming languages and file types
+- Works on **Linux, Termux, and Windows**  
+
 ---
 
-## 📫 Connect with Me
+## 💻 Installation & Usage
 
+### Linux
+```bash
+# Install dependencies
+sudo apt update && sudo apt install -y git python3
+
+# Clone repository
+git clone https://github.com/Jhad00/psm.git
+cd psm
+
+# Run script (replace with your target folder)
+python3 psm.py /path/to/your/project
+
+# Output: project_structure.txt will be saved in the same directory
+```
+### Termox (Android)
+```bach
+# Install dependencies
+pkg update -y && pkg install -y git python
+
+# Clone repository
+git clone https://github.com/Jhad00/psm.git
+cd psm
+
+# Run script
+python psm.py /sdcard/Download
+
+# Output: project_structure.txt will be saved in the same directory
+```
+### Windows
+```bash
+A) Using Git
+# Install Git & Python if not already installed:
+# - Git:    https://git-scm.com/download/win
+# - Python: https://www.python.org/downloads/windows/
+
+# Clone repository
+git clone https://github.com/Jhad00/psm.git
+cd psm
+
+# Run script
+py -3 psm.py C:\path\to\your\project
+# or
+python psm.py C:\path\to\your\project
+
+B) Without Git (Download ZIP)
+
+1) Go to the repository page on GitHub
+2) Click "Code" > "Download ZIP"
+3) Extract the ZIP file
+4) Open PowerShell in the extracted folder
+5) Run:
+   py -3 psm.py C:\path\to\your\project
+   OR:
+   python psm.py C:\path\to\your\project
+```
+## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub--181717?style=flat&logo=github)](https://github.com/Jhad00)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp)](https://wa.me/963953391651)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/jhad_34)
