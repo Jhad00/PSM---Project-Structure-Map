@@ -7,7 +7,7 @@
 
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=In+the+name+of+God%2C+Explore+your+projects+with+PSM;Generate+a+full+project+structure+in+a+single+file" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=In+the+name+of+Allah%2C+Explore+your+projects+with+PSM;Generate+a+full+project+structure+in+a+single+file" alt="Typing SVG" />
 </p>
 
 ---
