@@ -15,16 +15,20 @@
 ## 🌿 About PSM
 
 **PSM** is a Python tool that scans your project directory and generates a **complete structure report** in a single `.txt` file.  
-It automatically skips binary files and organizes readable content for quick reference.
+It automatically skips binary files and organizes readable content for quick reference.  
+
+💡 **Best use case:** If you want to feed the **entire content of a project** to an AI for analysis, converting it into a single file with all project contents makes the process extremely **clever and seamless**.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Language Used:**
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)  
 
 **Platforms Supported:**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)  
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=terminal)  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)  
@@ -49,8 +53,8 @@ It automatically skips binary files and organizes readable content for quick ref
 sudo apt update && sudo apt install -y git python3
 
 # Clone repository
-git clone https://github.com/Jhad00/psm.git
-cd psm
+git clone https://github.com/Jhad00/PSM---Project-Structure-Map.git
+cd PSM---Project-Structure-Map
 
 # Run script (replace with your target folder)
 python3 psm.py /path/to/your/project
@@ -63,8 +67,8 @@ python3 psm.py /path/to/your/project
 pkg update -y && pkg install -y git python
 
 # Clone repository
-git clone https://github.com/Jhad00/psm.git
-cd psm
+git clone https://github.com/Jhad00/PSM---Project-Structure-Map.git
+cd PSM---Project-Structure-Map
 
 # Run script
 python psm.py /sdcard/Download
@@ -79,8 +83,8 @@ A) Using Git
 # - Python: https://www.python.org/downloads/windows/
 
 # Clone repository
-git clone https://github.com/Jhad00/psm.git
-cd psm
+git clone https://github.com/Jhad00/PSM---Project-Structure-Map.git
+cd PSM---Project-Structure-Map
 
 # Run script
 py -3 psm.py C:\path\to\your\project
