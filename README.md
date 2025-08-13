@@ -47,8 +47,7 @@ It reads all files, ignores binaries, and organizes everything neatly for quick 
 - Generates **full structure report** in one `.txt` file  
 - Skips **binary files** and organizes textual content  
 - Handles **large projects** efficiently  
-- Works for **Python, JavaScript, C++, Java, HTML** projects  
-
+- Works for **Python, JavaScript, C++, Java, HTML**, and many other programming languages and file types
 ---
 
 ## 📫 Connect with Me
